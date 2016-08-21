@@ -1,0 +1,14 @@
+layout_spectrum: 0.5970943495631218
+typography_spectrum: 0.7361724339425564
+color:
+  brandStrength: 0.1340903490781784
+  lightness: 0.6465406292118132
+  saturation: 0.9755118759348989
+  rhythmicContrast: 0.616744979750365
+  brandColors:
+    - '#FFFFFF'
+    - '#07090A'
+    - '#1B9AEB'
+    - '#595E5F'
+    - '#9FA1A1'
+name: Instant Karma Content
