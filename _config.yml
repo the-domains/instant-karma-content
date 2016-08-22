@@ -6,9 +6,9 @@ color:
   saturation: 0.9755118759348989
   rhythmicContrast: 0.616744979750365
   brandColors:
-    - '#FFFFFF'
-    - '#07090A'
-    - '#1B9AEB'
-    - '#595E5F'
-    - '#9FA1A1'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Instant Karma Content
